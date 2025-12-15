@@ -8,5 +8,5 @@ This script supports two execution modes:
    - Usage: ```python visualize.py base_map.json --watch```
    - Continuously watches 'state.json' and re-renders the board whenever the file changes.
 
-- base_map.json: defines the board layout.
-- state.json: defines the game state (roads, buildings).
+- ```base_map.json```: defines the board layout.
+- ```state.json```: defines the game state (roads, buildings).
