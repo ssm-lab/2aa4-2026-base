@@ -1,0 +1,12 @@
+{
+  "roads": [
+    { "a": 12, "b": 17, "owner": "RED" },
+    { "a": 19, "b": 25, "owner": "BLUE" },
+    { "a": 25, "b": 31, "owner": "BLUE" }
+  ],
+  "buildings": [
+    { "node": 12, "owner": "RED", "type": "SETTLEMENT" },
+    { "node": 19, "owner": "BLUE", "type": "CITY" },
+    { "node": 31, "owner": "BLUE", "type": "SETTLEMENT" }
+  ]
+}
