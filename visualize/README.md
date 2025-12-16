@@ -1,6 +1,7 @@
 Python visualization script ```visualize.py``` for rendering a Catan board from JSON files.
 - ```base_map.json```: defines the board layout.
 - ```state.json```: defines the game state (roads, buildings).
+- '''scraped_boards/board0.png```: sample output file.
 
 This script supports two execution modes:
 - (1) Single-render mode
