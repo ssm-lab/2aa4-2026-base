@@ -37,7 +37,7 @@ OWNER_COLORS = {
     "RED": "red",
     "BLUE": "blue",
     "ORANGE": "orange",
-    "WHITE": "black",
+    "WHITE": "white",
     "GREEN": "green"
 }
 
