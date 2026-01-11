@@ -21,7 +21,7 @@ The visualizer reads JSON descriptions of a Catan board and game state, and rend
 ### 1. Clone this repository
 ```bash
 git clone https://github.com/ssm-lab/2aa4-2026-base.git
-cd visualizer
+cd visualize
 ```
 ### 2. Create and activate a Python virtual environment
 ```bash
