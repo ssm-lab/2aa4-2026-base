@@ -263,7 +263,7 @@ def visualize_board_from_json(
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage:")
-        print("  python light_visualizer.py base_map.json <state.json>")
+        print("  python light_visualizer.py base_map.json state.json")
         print("  python light_visualizer.py base_map.json --watch")
         sys.exit(1)
     base_map_path = sys.argv[1]
