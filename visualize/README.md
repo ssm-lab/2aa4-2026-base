@@ -53,7 +53,7 @@ The script supports two execution modes.
 #### (1) Single-render mode
 Render a single board image from a given state JSON file:
 ```bash
-python light_visualizer.py base_map.json <state.json>
+python light_visualizer.py base_map.json state.json
 ```
 #### (2) Watch mode
 Continuously watches ```state.json``` and re-renders the board whenever the file changes:
