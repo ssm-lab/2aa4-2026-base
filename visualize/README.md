@@ -16,7 +16,7 @@ The visualizer reads JSON descriptions of a Catan board and game state, and rend
 
 ---
 
-## Setup Instructions
+## Setup instructions
 
 ### 1. Clone this repository
 ```bash
@@ -48,7 +48,7 @@ pip install -e ".[web,gym,dev]"
 cd ..
 ```
 
-### 7. Run the Script
+### 7. Run the script
 The script supports two execution modes.
 #### (1) Single-render mode
 Render a single board image from a given state JSON file:
