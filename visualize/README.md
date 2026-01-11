@@ -8,10 +8,10 @@ This repository provides a Python visualization script, `light_visualizer.py`, f
 
 The visualizer reads JSON descriptions of a Catan board and game state, and renders the board as an image.
 
-### Input Files
+### Input files
 - `base_map.json` — defines the board layout.
 - `state.json` — defines the game state (roads, buildings, etc.).
-### Output Files
+### Output files
 - `scraped_boards/board0.png` — example output image.
 
 ---
