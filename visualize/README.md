@@ -1,4 +1,4 @@
-# Catan Visualizer
+# Catan visualizer
 
 This repository provides a Python visualization script, `light_visualizer.py`, for rendering a Catan board from JSON files.
 
@@ -6,7 +6,7 @@ This repository provides a Python visualization script, `light_visualizer.py`, f
 
 ## Overview
 
-The visualizer reads JSON descriptions of a Catan board and game state, and renders the board as an image.
+The visualizer reads JSON files of a Catan board and game state, and renders the board as an image.
 
 ### Input files
 - `base_map.json` — defines the board layout.
@@ -56,7 +56,7 @@ Render a single board image from a given state JSON file:
 python light_visualizer.py base_map.json state.json
 ```
 #### (2) Watch mode
-Continuously watches ```state.json``` and re-renders the board whenever the file changes:
+Continuously watch ```state.json``` and re-render the board whenever the file changes:
 ```bash
 python light_visualizer.py base_map.json --watch
 ```
